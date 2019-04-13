@@ -1,0 +1,27 @@
+{
+    "c2dictionary": true,
+    "data": {
+        "username": "test001",
+        "password": 123456,
+        "rolename": "",
+        "sex": 0,
+        "level": 1,
+        "gold": 0,
+        "copper": 0,
+        "fight": 0,
+        "servername": "",
+        "hp": 0,
+        "monster": 0,
+        "chapter": 0,
+        "bagnum": 24,
+        "addap": 0,
+        "adddp": 0,
+        "addhp": 0,
+        "addmp": 0,
+        "viplv": 0,
+        "vipexp": 0,
+        "addbagcount": 0,
+        "mcard": 0,
+        "lcard": 0
+    }
+}
